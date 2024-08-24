@@ -1,2 +1,2 @@
-# My-Work
-This portfolio includes my compiled work over the years in the following: Music, Photography, Architecture and Design, Coding, 3D Modeling, Crochet Projects, and Math Projects
+# Math-Projects
+In the past couple years in high school, I have become more and more interested in the mathematics. I took several different courses and got to create different types of projects. Here are a couple projects that I thought were the most educating and interesting to make.
