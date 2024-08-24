@@ -1,2 +1,2 @@
-# My-Work
-This portfolio includes my compiled work over the years in the following: Music, Photography, Architecture and Design, Coding, 3D Modeling, Crochet Projects, and Math Projects
+# 3D-Modeling
+A few years ago, I decided to take a 3D modeling and printing course which gave me a small 3D printer of my own. Since then, I became deeply invested in not only 3D modeling (which I taugh myself how to do prior to the course) but also printing my creations. I recently switched computers and unfortunately my software and work did not transfer over. I included here pictures that I had taken before I switched computers but I unfortunately could not find all of my work. 
